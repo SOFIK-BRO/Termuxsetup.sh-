@@ -42,4 +42,4 @@ pkg install wget -y
 
 pkg install curl -y
 
-pkg install fish - y
+pkg install fish -y
